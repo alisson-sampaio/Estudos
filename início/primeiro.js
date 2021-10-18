@@ -1,2 +1,2 @@
-console.log("oi fran")
-console.log("tchau fran") 
+console.log("Oi Fran")
+console.log("Tchau Fran") 
